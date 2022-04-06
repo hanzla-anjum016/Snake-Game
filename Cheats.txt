@@ -1,0 +1,10 @@
+Hi, Guys if you want to use the cheat codes
+
+:::::::::::::::::::::::::::::::::::::::: Read the following Codes and thier uses also :::::::::::::::::::::::::::::::::::::::::::
+
+=> Press R to increase snake moving speed.
+=> Press D to decrease snake moving speed.
+=> Press O to over the game while it is runnig.
+=> Press Shift to increase the score by 10.
+=> Press L while the snake is moving to increase the snake size.
+=> Press c to change snake and food colors.
