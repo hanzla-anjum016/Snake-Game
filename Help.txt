@@ -1,0 +1,9 @@
+Hi, guys this is a game made by Hanzla Anjum.
+
+:- Instructions
+
+=> use arrow keys to move your snake.
+=> Collect Yellow food to make your snake larger and larger.
+=> Every food will give you 10 scores.
+=> Don't Press back arrow key if the snake is moving in the front direction same for right and left keys also.
+=> If you make a highscore it will be noted in highscore text file.
